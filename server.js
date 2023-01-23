@@ -1,5 +1,7 @@
 const { createServer } = require("http"); //http server
 const fs = require('fs'); //read from file
+// const path = require('path');
+
 
 
 //create a text file
